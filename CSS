@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid blue ;
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(223, 223, 0);
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(223, 223, 0);
+}
+
+footer {
+    padding: 10px;
+    background-color: rgb(223, 223, 0);
+}
+
+footer p {
+    background-color: white;
+}
+
+nav {
+     margin: 15px;
+    background-color: rgb(7, 143, 7);
+}
+
+nav a {
+    font-size: 20px;
+    padding: 50px;
+    color: white;
+}
+
+.products {
+    border: 5px solid rgb(223, 223, 0);
+    border-radius: 15px;
+    background-color: rgb(223, 223, 0);
+}
+
+.subtitle{
+    color: blue;
+}
+
+.link{
+    border: 5px solid blue;
+    padding: 5px;
+}
